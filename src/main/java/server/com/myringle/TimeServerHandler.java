@@ -1,4 +1,4 @@
-package com.netty.server;
+package server.com.myringle;
 
 import io.netty.buffer.ByteBuf;
 

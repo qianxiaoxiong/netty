@@ -1,4 +1,4 @@
-package com.netty.server;
+package server.com.myringle;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;
